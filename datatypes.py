@@ -1,7 +1,7 @@
 #1. Demonstrate int, float, str, bool, and complex.
 a = 10
 b = 10.5
-c = "Priyanka"
+c = "nandani"
 d = True
 e = 2 + 3j
 print(a, type(a))
@@ -35,7 +35,7 @@ print("Length of string =", len(name))
 my_list = [10, 20, 30]
 my_tuple = (10, 20, 30)
 my_set = {10, 20, 30}
-my_dict = {"Name": "Priyanka", "Age": 21}
+my_dict = {"Name": "Nandani", "Age": 21}
 print("List:", my_list)
 print("Type:", type(my_list))
 
